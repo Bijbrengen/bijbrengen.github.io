@@ -1,0 +1,32 @@
+﻿body {
+}
+
+#header {
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 1rem;
+}
+
+    #header #logo {
+        margin: 30px 0 0 0;
+    }
+
+    #header h1 {
+        margin: 0;
+        padding: 0;
+        text-transform: uppercase;
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 3rem;
+        color: #BD1A8D;
+    }
+
+#copyright {
+    padding: 20px 0;
+    font-size: 1rem;
+    color: white;
+}
+
+    #copyright * {
+        margin: 0;
+        padding: 0;
+    }
