@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\image",
+    "\\style"
   ],
-  "SelectedNode": "\\D:\\repos\\bijbrengen.github.io",
+  "SelectedNode": "\\image\\logo.svg",
   "PreviewInSolutionExplorer": false
 }
